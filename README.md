@@ -8,7 +8,10 @@
 
 ## Procedure:
 1. Clone this repository
-2. Run the 'main.py' file
+2. Run the 'train.py' file. 
+3. Run the 'infer.py' file for getting predictions. 
+4. Run the 'visualize.py' file for visualization.
+
 
 Reference code : https://github.com/chenfengxu714/SqueezeSegV3
 
